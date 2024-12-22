@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>multi.ico</file>
+    </qresource>
+</RCC>
